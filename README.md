@@ -1,7 +1,7 @@
 # Market Data Analysis - Adv Database Project
 
 # Problem Statement
-Analyzing Market Data from Alpha Vantage API for Investment Insights 
+Analyzing Market Data from Alpha Vantage API for Investment Insights.
 
 In the dynamic landscape of financial markets, the vast and continuous flow of data presents a valuable opportunity for making data-driven investment decisions. The objective of this advanced database project is to harness the wealth of historical and real-time market data to empower investors with sophisticated tools for both real-time analysis and predictive analysis of the market. 
 
